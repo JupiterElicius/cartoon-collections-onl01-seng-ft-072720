@@ -22,8 +22,3 @@ def find_the_cheese(array)
   end
 end
 
-
-
-#method that accepts array-
-#return the first value that is a cheese
-#return nil if array doesn't include a cheese
